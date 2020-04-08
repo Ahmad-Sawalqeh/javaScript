@@ -1,5 +1,7 @@
 console.log(`inhertiance script`,`--------------------`);
 
+// It is a concept in which some property and methods of an Object is being used by another Object.
+
 // class inheritance from class
 class CarClass{
     constructor(name){ // super class constructor
