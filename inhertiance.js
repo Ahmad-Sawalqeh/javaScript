@@ -1,4 +1,4 @@
-console.log(`inhertiance script`);
+console.log(`inhertiance script`,`--------------------`);
 
 // class inheritance from class
 class CarClass{
@@ -74,4 +74,4 @@ let testCall = new ChildFunction();
 console.log(`ParentFunction => `,testCall.getParentFunction());
 console.log(`ChildFunction => `,testCall.getChildFunction());
 
-console.log(`inhertiance script`);
+console.log(`inhertiance script`,`--------------------`);
